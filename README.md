@@ -1,2 +1,2 @@
-# image-processing
-Repository with image processing matlab code
+# Repository with image processing matlab code
+
